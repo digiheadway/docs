@@ -35,17 +35,17 @@
     {
       "name": "Download App",
       "icon": "book-open-cover",
-      "url": "/"
+      "url": "/a"
     },
     {
       "name": "Contact Us",
       "icon": "slack",
-      "url": "/"
+      "url": "/v"
     },
     {
       "name": "Ask Question",
       "icon": "newspaper",
-      "url": "/"
+      "url": "/c"
     }
   ],
   "navigation": [

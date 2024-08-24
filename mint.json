@@ -33,19 +33,19 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Download App",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "/"
     },
     {
-      "name": "Community",
+      "name": "Contact Us",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "/"
     },
     {
-      "name": "Blog",
+      "name": "Ask Question",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "/"
     }
   ],
   "navigation": [

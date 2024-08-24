@@ -27,7 +27,7 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Why Tiffin CRM",
       "url": "api-reference"
     }
   ],
@@ -35,17 +35,17 @@
     {
       "name": "Download App",
       "icon": "book-open-cover",
-      "url": "/a"
+      "url": "https://tiffincrm.com/"
     },
     {
       "name": "Contact Us",
       "icon": "slack",
-      "url": "/v"
+      "url": "https://tiffincrm.com/download-app.php?utm_source=hero_section&is_indian=yes"
     },
     {
       "name": "Ask Question",
       "icon": "newspaper",
-      "url": "/c"
+      "url": "https://tiffincrm.com/download-app.php?utm_source=hero_section&is_indian=yes"
     }
   ],
   "navigation": [
